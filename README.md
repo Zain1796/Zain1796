@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm a Data Analyst & NLP enthusiast!<br>My story:<br><br>Graduated from University of Engineering and Technology with a Bsc Computer Systems Engineering.<br>Honed communication, problem-solving, and conflict resolution skills in Customer Care.<br>Now a Data Analyst, using data to wrangle insights and tell hidden stories.<br>My passion:<br><br>Machine Learning and Python programming in Data Science.<br>Natural Language Processing (NLP), bridging data and human language.<br>Analyzing sentiment, extracting meaning, and generating creative content with NLP.<br>My approach:<br><br>Learn and grow with resilience, determination, and an open mind.<br>Thrive in collaboration, valuing diverse perspectives for powerful solutions
+I'm a Data Scientist & AI Engineer!  
+My story:  
+
+- Graduated from the University of Engineering and Technology with a BSc in Computer Systems Engineering.  
+- Developed a solid foundation in problem-solving, communication, and collaboration.  
+- Transitioned into Data Science and AI Engineering to explore cutting-edge technologies and their impact.  
+
+My passion:  
+
+- Building AI solutions using Machine Learning and Deep Learning.  
+- Exploring Natural Language Processing (NLP) to bridge human language and data.  
+- Designing autonomous systems and leveraging LLMs to create intelligent applications.  
+- Working with LangChain, LangFlow, and advanced AI frameworks for practical innovations.  
+
+My approach:  
+
+- Learn continuously, staying curious and adaptable to new challenges.  
+- Collaborate with diverse teams to deliver innovative, data-driven solutions.  
+- Focus on aligning AI advancements with meaningful real-world applications.  
+
+🚀 Let's build the future of AI together!  
+
 
 
 ## 🌐 Socials:
